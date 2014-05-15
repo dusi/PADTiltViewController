@@ -1,0 +1,572 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		CD6D5BFE1910F7DE002EF367 /* Framework */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = CD6D5BFF1910F7DE002EF367 /* Build configuration list for PBXAggregateTarget "Framework" */;
+			buildPhases = (
+				CD6D5C041910F807002EF367 /* Build "Fat Binary" */,
+			);
+			dependencies = (
+				CD6D5C031910F7F0002EF367 /* PBXTargetDependency */,
+			);
+			name = Framework;
+			productName = Framework;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		CD6D5BCB1910F00B002EF367 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD6D5BCA1910F00B002EF367 /* Foundation.framework */; };
+		CD6D5BD91910F00B002EF367 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD6D5BD81910F00B002EF367 /* XCTest.framework */; };
+		CD6D5BDA1910F00B002EF367 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD6D5BCA1910F00B002EF367 /* Foundation.framework */; };
+		CD6D5BDC1910F00B002EF367 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD6D5BDB1910F00B002EF367 /* UIKit.framework */; };
+		CD6D5BDF1910F00B002EF367 /* libPADTiltViewController.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD6D5BC71910F00B002EF367 /* libPADTiltViewController.a */; };
+		CD6D5BE51910F00B002EF367 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD6D5BE31910F00B002EF367 /* InfoPlist.strings */; };
+		CD6D5BE71910F00B002EF367 /* PADTiltViewControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CD6D5BE61910F00B002EF367 /* PADTiltViewControllerTests.m */; };
+		CD90E1FC19153429009A558E /* PADTiltEnums.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90E1FB191533CC009A558E /* PADTiltEnums.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CD90E1FE19153783009A558E /* PADTiltViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CD90E1FD1915371C009A558E /* PADTiltViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDCACFDB19257D4B00501C42 /* CMAttitude+PADTiltAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = CDCACFD519257D4B00501C42 /* CMAttitude+PADTiltAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDCACFDC19257D4B00501C42 /* CMAttitude+PADTiltAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCACFD619257D4B00501C42 /* CMAttitude+PADTiltAdditions.m */; };
+		CDCACFDD19257D4B00501C42 /* NSObject+AssociatedObjects.h in Headers */ = {isa = PBXBuildFile; fileRef = CDCACFD719257D4B00501C42 /* NSObject+AssociatedObjects.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDCACFDE19257D4B00501C42 /* NSObject+AssociatedObjects.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCACFD819257D4B00501C42 /* NSObject+AssociatedObjects.m */; };
+		CDCACFDF19257D4B00501C42 /* UIViewController+PADTiltAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = CDCACFD919257D4B00501C42 /* UIViewController+PADTiltAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDCACFE019257D4B00501C42 /* UIViewController+PADTiltAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCACFDA19257D4B00501C42 /* UIViewController+PADTiltAdditions.m */; };
+		CDCACFE719257D5200501C42 /* PADTiltCollectionViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CDCACFE119257D5200501C42 /* PADTiltCollectionViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDCACFE819257D5200501C42 /* PADTiltCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCACFE219257D5200501C42 /* PADTiltCollectionViewController.m */; };
+		CDCACFE919257D5200501C42 /* PADTiltScrollViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CDCACFE319257D5200501C42 /* PADTiltScrollViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDCACFEA19257D5200501C42 /* PADTiltScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCACFE419257D5200501C42 /* PADTiltScrollViewController.m */; };
+		CDCACFEB19257D5200501C42 /* PADTiltTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CDCACFE519257D5200501C42 /* PADTiltTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDCACFEC19257D5200501C42 /* PADTiltTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CDCACFE619257D5200501C42 /* PADTiltTableViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CD6D5BDD1910F00B002EF367 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD6D5BBF1910F00B002EF367 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CD6D5BC61910F00B002EF367;
+			remoteInfo = PADTiltViewController;
+		};
+		CD6D5C021910F7F0002EF367 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD6D5BBF1910F00B002EF367 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CD6D5BC61910F00B002EF367;
+			remoteInfo = PADTiltViewController;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		CD6D5BC51910F00B002EF367 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		CD6D5BC71910F00B002EF367 /* libPADTiltViewController.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPADTiltViewController.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD6D5BCA1910F00B002EF367 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		CD6D5BCE1910F00B002EF367 /* PADTiltViewController-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PADTiltViewController-Prefix.pch"; sourceTree = "<group>"; };
+		CD6D5BD71910F00B002EF367 /* PADTiltViewControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PADTiltViewControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD6D5BD81910F00B002EF367 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		CD6D5BDB1910F00B002EF367 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		CD6D5BE21910F00B002EF367 /* PADTiltViewControllerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PADTiltViewControllerTests-Info.plist"; sourceTree = "<group>"; };
+		CD6D5BE41910F00B002EF367 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD6D5BE61910F00B002EF367 /* PADTiltViewControllerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PADTiltViewControllerTests.m; sourceTree = "<group>"; };
+		CD90E1FB191533CC009A558E /* PADTiltEnums.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PADTiltEnums.h; sourceTree = "<group>"; };
+		CD90E1FD1915371C009A558E /* PADTiltViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PADTiltViewController.h; sourceTree = "<group>"; };
+		CDCACFD519257D4B00501C42 /* CMAttitude+PADTiltAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CMAttitude+PADTiltAdditions.h"; sourceTree = "<group>"; };
+		CDCACFD619257D4B00501C42 /* CMAttitude+PADTiltAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CMAttitude+PADTiltAdditions.m"; sourceTree = "<group>"; };
+		CDCACFD719257D4B00501C42 /* NSObject+AssociatedObjects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+AssociatedObjects.h"; sourceTree = "<group>"; };
+		CDCACFD819257D4B00501C42 /* NSObject+AssociatedObjects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+AssociatedObjects.m"; sourceTree = "<group>"; };
+		CDCACFD919257D4B00501C42 /* UIViewController+PADTiltAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+PADTiltAdditions.h"; sourceTree = "<group>"; };
+		CDCACFDA19257D4B00501C42 /* UIViewController+PADTiltAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+PADTiltAdditions.m"; sourceTree = "<group>"; };
+		CDCACFE119257D5200501C42 /* PADTiltCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PADTiltCollectionViewController.h; sourceTree = "<group>"; };
+		CDCACFE219257D5200501C42 /* PADTiltCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PADTiltCollectionViewController.m; sourceTree = "<group>"; };
+		CDCACFE319257D5200501C42 /* PADTiltScrollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PADTiltScrollViewController.h; sourceTree = "<group>"; };
+		CDCACFE419257D5200501C42 /* PADTiltScrollViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PADTiltScrollViewController.m; sourceTree = "<group>"; };
+		CDCACFE519257D5200501C42 /* PADTiltTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PADTiltTableViewController.h; sourceTree = "<group>"; };
+		CDCACFE619257D5200501C42 /* PADTiltTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PADTiltTableViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CD6D5BC41910F00B002EF367 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD6D5BCB1910F00B002EF367 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD6D5BD41910F00B002EF367 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD6D5BD91910F00B002EF367 /* XCTest.framework in Frameworks */,
+				CD6D5BDF1910F00B002EF367 /* libPADTiltViewController.a in Frameworks */,
+				CD6D5BDC1910F00B002EF367 /* UIKit.framework in Frameworks */,
+				CD6D5BDA1910F00B002EF367 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CD6D5BBE1910F00B002EF367 = {
+			isa = PBXGroup;
+			children = (
+				CD6D5BCC1910F00B002EF367 /* PADTiltViewController */,
+				CD6D5BE01910F00B002EF367 /* PADTiltViewControllerTests */,
+				CD6D5BC91910F00B002EF367 /* Frameworks */,
+				CD6D5BC81910F00B002EF367 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CD6D5BC81910F00B002EF367 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CD6D5BC71910F00B002EF367 /* libPADTiltViewController.a */,
+				CD6D5BD71910F00B002EF367 /* PADTiltViewControllerTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CD6D5BC91910F00B002EF367 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CD6D5BCA1910F00B002EF367 /* Foundation.framework */,
+				CD6D5BD81910F00B002EF367 /* XCTest.framework */,
+				CD6D5BDB1910F00B002EF367 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CD6D5BCC1910F00B002EF367 /* PADTiltViewController */ = {
+			isa = PBXGroup;
+			children = (
+				CDCACFD519257D4B00501C42 /* CMAttitude+PADTiltAdditions.h */,
+				CDCACFD619257D4B00501C42 /* CMAttitude+PADTiltAdditions.m */,
+				CDCACFD719257D4B00501C42 /* NSObject+AssociatedObjects.h */,
+				CDCACFD819257D4B00501C42 /* NSObject+AssociatedObjects.m */,
+				CDCACFD919257D4B00501C42 /* UIViewController+PADTiltAdditions.h */,
+				CDCACFDA19257D4B00501C42 /* UIViewController+PADTiltAdditions.m */,
+				CDCACFE119257D5200501C42 /* PADTiltCollectionViewController.h */,
+				CDCACFE219257D5200501C42 /* PADTiltCollectionViewController.m */,
+				CDCACFE319257D5200501C42 /* PADTiltScrollViewController.h */,
+				CDCACFE419257D5200501C42 /* PADTiltScrollViewController.m */,
+				CDCACFE519257D5200501C42 /* PADTiltTableViewController.h */,
+				CDCACFE619257D5200501C42 /* PADTiltTableViewController.m */,
+				CD90E1FB191533CC009A558E /* PADTiltEnums.h */,
+				CD90E1FD1915371C009A558E /* PADTiltViewController.h */,
+				CD6D5BCD1910F00B002EF367 /* Supporting Files */,
+			);
+			path = PADTiltViewController;
+			sourceTree = "<group>";
+		};
+		CD6D5BCD1910F00B002EF367 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD6D5BCE1910F00B002EF367 /* PADTiltViewController-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CD6D5BE01910F00B002EF367 /* PADTiltViewControllerTests */ = {
+			isa = PBXGroup;
+			children = (
+				CD6D5BE61910F00B002EF367 /* PADTiltViewControllerTests.m */,
+				CD6D5BE11910F00B002EF367 /* Supporting Files */,
+			);
+			path = PADTiltViewControllerTests;
+			sourceTree = "<group>";
+		};
+		CD6D5BE11910F00B002EF367 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD6D5BE21910F00B002EF367 /* PADTiltViewControllerTests-Info.plist */,
+				CD6D5BE31910F00B002EF367 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		CD6D5BF81910F4F7002EF367 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDCACFDB19257D4B00501C42 /* CMAttitude+PADTiltAdditions.h in Headers */,
+				CDCACFDD19257D4B00501C42 /* NSObject+AssociatedObjects.h in Headers */,
+				CDCACFDF19257D4B00501C42 /* UIViewController+PADTiltAdditions.h in Headers */,
+				CDCACFE719257D5200501C42 /* PADTiltCollectionViewController.h in Headers */,
+				CDCACFE919257D5200501C42 /* PADTiltScrollViewController.h in Headers */,
+				CDCACFEB19257D5200501C42 /* PADTiltTableViewController.h in Headers */,
+				CD90E1FC19153429009A558E /* PADTiltEnums.h in Headers */,
+				CD90E1FE19153783009A558E /* PADTiltViewController.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		CD6D5BC61910F00B002EF367 /* PADTiltViewController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD6D5BEA1910F00B002EF367 /* Build configuration list for PBXNativeTarget "PADTiltViewController" */;
+			buildPhases = (
+				CD6D5BC31910F00B002EF367 /* Sources */,
+				CD6D5BC41910F00B002EF367 /* Frameworks */,
+				CD6D5BC51910F00B002EF367 /* CopyFiles */,
+				CD6D5BF81910F4F7002EF367 /* Headers */,
+				CD6D5BFD1910F6B4002EF367 /* Prepare Framework */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PADTiltViewController;
+			productName = PADTiltViewController;
+			productReference = CD6D5BC71910F00B002EF367 /* libPADTiltViewController.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		CD6D5BD61910F00B002EF367 /* PADTiltViewControllerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD6D5BED1910F00B002EF367 /* Build configuration list for PBXNativeTarget "PADTiltViewControllerTests" */;
+			buildPhases = (
+				CD6D5BD31910F00B002EF367 /* Sources */,
+				CD6D5BD41910F00B002EF367 /* Frameworks */,
+				CD6D5BD51910F00B002EF367 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CD6D5BDE1910F00B002EF367 /* PBXTargetDependency */,
+			);
+			name = PADTiltViewControllerTests;
+			productName = PADTiltViewControllerTests;
+			productReference = CD6D5BD71910F00B002EF367 /* PADTiltViewControllerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CD6D5BBF1910F00B002EF367 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Pavel Dusatko";
+			};
+			buildConfigurationList = CD6D5BC21910F00B002EF367 /* Build configuration list for PBXProject "PADTiltViewController" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CD6D5BBE1910F00B002EF367;
+			productRefGroup = CD6D5BC81910F00B002EF367 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CD6D5BC61910F00B002EF367 /* PADTiltViewController */,
+				CD6D5BD61910F00B002EF367 /* PADTiltViewControllerTests */,
+				CD6D5BFE1910F7DE002EF367 /* Framework */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CD6D5BD51910F00B002EF367 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD6D5BE51910F00B002EF367 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		CD6D5BFD1910F6B4002EF367 /* Prepare Framework */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Prepare Framework";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\n\nmkdir -p \"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.framework/Versions/A/Headers\"\n\n# Link the \"Current\" version to \"A\"\n/bin/ln -sfh A \"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.framework/Versions/Current\"\n/bin/ln -sfh Versions/Current/Headers \"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.framework/Headers\"\n/bin/ln -sfh \"Versions/Current/${PRODUCT_NAME}\" \"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.framework/${PRODUCT_NAME}\"\n\n# The -a ensures that the headers maintain the source modification date so that we don't constantly\n# cause propagating rebuilds of files that import these headers.\n/bin/cp -a \"${TARGET_BUILD_DIR}/${PUBLIC_HEADERS_FOLDER_PATH}/\" \"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.framework/Versions/A/Headers\"\n";
+		};
+		CD6D5C041910F807002EF367 /* Build "Fat Binary" */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Build \"Fat Binary\"";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e\nset +u\n# Avoid recursively calling this script.\nif [[ $SF_MASTER_SCRIPT_RUNNING ]]\nthen\nexit 0\nfi\nset -u\nexport SF_MASTER_SCRIPT_RUNNING=1\n\nSF_TARGET_NAME=${PROJECT_NAME}\nSF_EXECUTABLE_PATH=\"lib${SF_TARGET_NAME}.a\"\nSF_WRAPPER_NAME=\"${SF_TARGET_NAME}.framework\"\n\n# The following conditionals come from\n# https://github.com/kstenerud/iOS-Universal-Framework\n\nif [[ \"$SDK_NAME\" =~ ([A-Za-z]+) ]]\nthen\nSF_SDK_PLATFORM=${BASH_REMATCH[1]}\nelse\necho \"Could not find platform name from SDK_NAME: $SDK_NAME\"\nexit 1\nfi\n\nif [[ \"$SDK_NAME\" =~ ([0-9]+.*$) ]]\nthen\nSF_SDK_VERSION=${BASH_REMATCH[1]}\nelse\necho \"Could not find sdk version from SDK_NAME: $SDK_NAME\"\nexit 1\nfi\n\nif [[ \"$SF_SDK_PLATFORM\" = \"iphoneos\" ]]\nthen\nSF_OTHER_PLATFORM=iphonesimulator\nelse\nSF_OTHER_PLATFORM=iphoneos\nfi\n\nif [[ \"$BUILT_PRODUCTS_DIR\" =~ (.*)$SF_SDK_PLATFORM$ ]]\nthen\nSF_OTHER_BUILT_PRODUCTS_DIR=\"${BASH_REMATCH[1]}${SF_OTHER_PLATFORM}\"\nelse\necho \"Could not find platform name from build products directory: $BUILT_PRODUCTS_DIR\"\nexit 1\nfi\n\n# Build the other platform.\nxcrun xcodebuild -project \"${PROJECT_FILE_PATH}\" -target \"${TARGET_NAME}\" -configuration \"${CONFIGURATION}\" -sdk ${SF_OTHER_PLATFORM}${SF_SDK_VERSION} BUILD_DIR=\"${BUILD_DIR}\" OBJROOT=\"${OBJROOT}\" BUILD_ROOT=\"${BUILD_ROOT}\" SYMROOT=\"${SYMROOT}\" $ACTION\n\n# Smash the two static libraries into one fat binary and store it in the .framework\nxcrun lipo -create \"${BUILT_PRODUCTS_DIR}/${SF_EXECUTABLE_PATH}\" \"${SF_OTHER_BUILT_PRODUCTS_DIR}/${SF_EXECUTABLE_PATH}\" -output \"${BUILT_PRODUCTS_DIR}/${SF_WRAPPER_NAME}/Versions/A/${SF_TARGET_NAME}\"\n\n# Copy the binary to the other architecture folder to have a complete framework in both.\ncp -a \"${BUILT_PRODUCTS_DIR}/${SF_WRAPPER_NAME}/Versions/A/${SF_TARGET_NAME}\" \"${SF_OTHER_BUILT_PRODUCTS_DIR}/${SF_WRAPPER_NAME}/Versions/A/${SF_TARGET_NAME}\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CD6D5BC31910F00B002EF367 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDCACFE019257D4B00501C42 /* UIViewController+PADTiltAdditions.m in Sources */,
+				CDCACFEA19257D5200501C42 /* PADTiltScrollViewController.m in Sources */,
+				CDCACFDE19257D4B00501C42 /* NSObject+AssociatedObjects.m in Sources */,
+				CDCACFDC19257D4B00501C42 /* CMAttitude+PADTiltAdditions.m in Sources */,
+				CDCACFEC19257D5200501C42 /* PADTiltTableViewController.m in Sources */,
+				CDCACFE819257D5200501C42 /* PADTiltCollectionViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD6D5BD31910F00B002EF367 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD6D5BE71910F00B002EF367 /* PADTiltViewControllerTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CD6D5BDE1910F00B002EF367 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CD6D5BC61910F00B002EF367 /* PADTiltViewController */;
+			targetProxy = CD6D5BDD1910F00B002EF367 /* PBXContainerItemProxy */;
+		};
+		CD6D5C031910F7F0002EF367 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CD6D5BC61910F00B002EF367 /* PADTiltViewController */;
+			targetProxy = CD6D5C021910F7F0002EF367 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CD6D5BE31910F00B002EF367 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD6D5BE41910F00B002EF367 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CD6D5BE81910F00B002EF367 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CD6D5BE91910F00B002EF367 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CD6D5BEB1910F00B002EF367 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = NO;
+				DSTROOT = /tmp/PADTiltViewController.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PADTiltViewController/PADTiltViewController-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(PROJECT_NAME)Headers";
+				SKIP_INSTALL = YES;
+				STRIP_STYLE = "non-global";
+			};
+			name = Debug;
+		};
+		CD6D5BEC1910F00B002EF367 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = NO;
+				DSTROOT = /tmp/PADTiltViewController.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PADTiltViewController/PADTiltViewController-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(PROJECT_NAME)Headers";
+				SKIP_INSTALL = YES;
+				STRIP_STYLE = "non-global";
+			};
+			name = Release;
+		};
+		CD6D5BEE1910F00B002EF367 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PADTiltViewController/PADTiltViewController-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "PADTiltViewControllerTests/PADTiltViewControllerTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		CD6D5BEF1910F00B002EF367 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PADTiltViewController/PADTiltViewController-Prefix.pch";
+				INFOPLIST_FILE = "PADTiltViewControllerTests/PADTiltViewControllerTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+		CD6D5C001910F7DE002EF367 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CD6D5C011910F7DE002EF367 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD6D5BC21910F00B002EF367 /* Build configuration list for PBXProject "PADTiltViewController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD6D5BE81910F00B002EF367 /* Debug */,
+				CD6D5BE91910F00B002EF367 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD6D5BEA1910F00B002EF367 /* Build configuration list for PBXNativeTarget "PADTiltViewController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD6D5BEB1910F00B002EF367 /* Debug */,
+				CD6D5BEC1910F00B002EF367 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD6D5BED1910F00B002EF367 /* Build configuration list for PBXNativeTarget "PADTiltViewControllerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD6D5BEE1910F00B002EF367 /* Debug */,
+				CD6D5BEF1910F00B002EF367 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD6D5BFF1910F7DE002EF367 /* Build configuration list for PBXAggregateTarget "Framework" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD6D5C001910F7DE002EF367 /* Debug */,
+				CD6D5C011910F7DE002EF367 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD6D5BBF1910F00B002EF367 /* Project object */;
+}
