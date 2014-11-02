@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crawl</key>
+	<array>
+		<array>
+			<string>Episode I</string>
+			<string>THE PHANTOM MENACE</string>
+			<string>Turmoil has engulfed the</string>
+			<string>Galactic Republic. The taxation</string>
+			<string>of trade routes to outlying star</string>
+			<string>systems is in dispute.</string>
+			<string></string>
+			<string>Hoping to resolve the matter</string>
+			<string>with a blockade of deadly</string>
+			<string>battleships, the greedy Trade</string>
+			<string>Federation has stopped all</string>
+			<string>shipping to the small planet</string>
+			<string>of Naboo.</string>
+			<string></string>
+			<string>While the congress of the</string>
+			<string>Republic endlessly debates</string>
+			<string>this alarming chain of events,</string>
+			<string>the Supreme Chancellor has</string>
+			<string>secretly dispatched two Jedi</string>
+			<string>Knights, the guardians of</string>
+			<string>peace and justice in the</string>
+			<string>galaxy, to settle the conflict...</string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Episode II</string>
+			<string>ATTACK OF THE CLONES</string>
+			<string>There is unrest in the Galactic</string>
+			<string>Senate. Several thousand solar</string>
+			<string>systems have declared their</string>
+			<string>intentions to leave the Republic.</string>
+			<string></string>
+			<string>This separatist movement,</string>
+			<string>under the leadership of the</string>
+			<string>mysterious Count Dooku, has</string>
+			<string>made it difficult for the limited</string>
+			<string>number of Jedi Knights to maintain </string>
+			<string>peace and order in the galaxy.</string>
+			<string></string>
+			<string>Senator Amidala, the former</string>
+			<string>Queen of Naboo, is returning</string>
+			<string>to the Galactic Senate to vote</string>
+			<string>on the critical issue of creating</string>
+			<string>an ARMY OF THE REPUBLIC</string>
+			<string>to assist the overwhelmed</string>
+			<string>Jedi....</string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Episode III</string>
+			<string>REVENGE OF THE SITH</string>
+			<string>War! The Republic is crumbling</string>
+			<string>under attacks by the ruthless</string>
+			<string>Sith Lord, Count Dooku.</string>
+			<string>There are heroes on both sides.</string>
+			<string>Evil is everywhere.</string>
+			<string></string>
+			<string>In a stunning move, the</string>
+			<string>fiendish droid leader, General</string>
+			<string>Grievous, has swept into the</string>
+			<string>Republic capital and kidnapped</string>
+			<string>Chancellor Palpatine, leader of</string>
+			<string>the Galactic Senate.</string>
+			<string></string>
+			<string>As the Separatist Droid Army</string>
+			<string>attempts to flee the besieged</string>
+			<string>capital with their valuable</string>
+			<string>hostage, two Jedi Knights lead a</string>
+			<string>desperate mission to rescue the</string>
+			<string>captive Chancellor....</string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Episode IV</string>
+			<string>A NEW HOPE</string>
+			<string>It is a period of civil war.</string>
+			<string>Rebel spaceships, striking</string>
+			<string>from a hidden base, have won</string>
+			<string>their first victory against</string>
+			<string>the evil Galactic Empire.</string>
+			<string></string>
+			<string>During the battle, Rebel</string>
+			<string>spies managed to steal secret</string>
+			<string>plans to the Empire&apos;s</string>
+			<string>ultimate weapon, the DEATH</string>
+			<string>STAR, an armored space</string>
+			<string>station with enough power</string>
+			<string></string>
+			<string>Pursued by the Empire&apos;s</string>
+			<string>sinister agents, Princess</string>
+			<string>Leia races home aboard her</string>
+			<string>starship, custodian of the</string>
+			<string>stolen plans that can save her</string>
+			<string>people and restore</string>
+			<string>freedom to the galaxy....</string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Episode V</string>
+			<string>THE EMPIRE STRIKES BACK</string>
+			<string>It is a dark time for the</string>
+			<string>Rebellion. Although the Death</string>
+			<string>Star has been destroyed,</string>
+			<string>Imperial troops have driven the</string>
+			<string>Rebel forces from their hidden</string>
+			<string>base and pursued them across</string>
+			<string>the galaxy.</string>
+			<string></string>
+			<string>Evading the dreaded Imperial</string>
+			<string>Starfleet, a group of freedom</string>
+			<string>fighters led by Luke Skywalker</string>
+			<string>has established a new secret</string>
+			<string>base on the remote ice world</string>
+			<string>of Hoth.</string>
+			<string></string>
+			<string>The evil lord Darth Vader,</string>
+			<string>obsessed with finding young</string>
+			<string>Skywalker, has dispatched</string>
+			<string>thousands of remote probes into</string>
+			<string>the far reaches of space....</string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+		<array>
+			<string>Episode VI</string>
+			<string>RETURN OF THE JEDI</string>
+			<string>Luke Skywalker has returned to</string>
+			<string>his home planet of Tatooine in</string>
+			<string>an attempt to rescue his</string>
+			<string>friend Han Solo from the</string>
+			<string>clutches of the vile gangster</string>
+			<string>Jabba the Hutt.</string>
+			<string></string>
+			<string>Little does Luke know that the</string>
+			<string>GALACTIC EMPIRE has secretly</string>
+			<string>begun construction on a new</string>
+			<string>armored space station even</string>
+			<string>more powerful than the first</string>
+			<string>dreaded Death Star.</string>
+			<string></string>
+			<string>When completed, this ultimate</string>
+			<string>weapon will spell certain doom</string>
+			<string>for the small band of rebels</string>
+			<string>struggling to restore freedom</string>
+			<string>to the galaxy...</string>
+		</array>
+	</array>
+	<key>feed</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>Qui-Gon Jinn</string>
+			<key>detailText</key>
+			<string>There&apos;s always a bigger fish.</string>
+			<key>imageName</key>
+			<string>Qui-Gon-Jinn</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Ani</string>
+			<key>detailText</key>
+			<string>Are you an angel?</string>
+			<key>imageName</key>
+			<string>Ani</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>C-3PO</string>
+			<key>detailText</key>
+			<string>My parts are showing? Oh, my goodness, oh!</string>
+			<key>imageName</key>
+			<string>C-3PO</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Ani</string>
+			<key>detailText</key>
+			<string>You&apos;re a Jedi Knight, aren&apos;t you?</string>
+			<key>imageName</key>
+			<string>Ani</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Qui-Gon Jinn</string>
+			<key>detailText</key>
+			<string>What makes you think that?</string>
+			<key>imageName</key>
+			<string>Qui-Gon-Jinn</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Ani</string>
+			<key>detailText</key>
+			<string>I saw your laser sword. Only Jedi carry that kind of weapon.</string>
+			<key>imageName</key>
+			<string>Ani</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Qui-Gon Jinn</string>
+			<key>detailText</key>
+			<string>Perhaps I killed a Jedi and took it from him.</string>
+			<key>imageName</key>
+			<string>Qui-Gon-Jinn</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Yoda</string>
+			<key>detailText</key>
+			<string>Everything! Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering. I sense much fear in you.</string>
+			<key>imageName</key>
+			<string>Yoda</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>168</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Mace Windu</string>
+			<key>detailText</key>
+			<string>But which was destroyed, the master or the apprentice?</string>
+			<key>imageName</key>
+			<string>Mace-Windu</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Obi-Wan Kenobi</string>
+			<key>detailText</key>
+			<string>You were right about one thing, master. The negotiations were short.</string>
+			<key>imageName</key>
+			<string>Obi-Wan-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Anakin Skywalker</string>
+			<key>detailText</key>
+			<string>Someday I will be the most powerful Jedi ever.</string>
+			<key>imageName</key>
+			<string>Anakin-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>C-3PO</string>
+			<key>detailText</key>
+			<string>Die, Jedi dogs. Oh... what did I say?</string>
+			<key>imageName</key>
+			<string>C-3PO</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Anakin Skywalker</string>
+			<key>detailText</key>
+			<string>You call this a diplomatic solution?</string>
+			<key>imageName</key>
+			<string>Anakin-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Padmé</string>
+			<key>detailText</key>
+			<string>No, I call it aggressive negotiations.</string>
+			<key>imageName</key>
+			<string>Padme</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Obi-Wan Kenobi</string>
+			<key>detailText</key>
+			<string>This weapon is your life.</string>
+			<key>imageName</key>
+			<string>Obi-Wan-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>C-3PO</string>
+			<key>detailText</key>
+			<string>What have you done?! I’m BACKWARDS.</string>
+			<key>imageName</key>
+			<string>C-3PO</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Obi-Wan Kenobi</string>
+			<key>detailText</key>
+			<string>I have a bad feeling about this.</string>
+			<key>imageName</key>
+			<string>Obi-Wan-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Obi-Wan Kenobi</string>
+			<key>detailText</key>
+			<string>You were the chosen one! It was said that you would destroy the Sith, not join them. You were to bring balance to the force, not leave it in darkness.</string>
+			<key>imageName</key>
+			<string>Obi-Wan-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>168</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Anakin Skywalker</string>
+			<key>detailText</key>
+			<string>I hate you.</string>
+			<key>imageName</key>
+			<string>Anakin-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Obi-Wan Kenobi</string>
+			<key>detailText</key>
+			<string>You were my brother, Anakin. I loved you.</string>
+			<key>imageName</key>
+			<string>Obi-Wan-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Anakin Skywalker</string>
+			<key>detailText</key>
+			<string>General Grievous... you&apos;re shorter than I expected.</string>
+			<key>imageName</key>
+			<string>Anakin-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Obi-Wan Kenobi</string>
+			<key>detailText</key>
+			<string>Anakin is the father, isn&apos;t he?</string>
+			<key>imageName</key>
+			<string>Obi-Wan-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Yoda</string>
+			<key>detailText</key>
+			<string>If so powerful you are... why leave?</string>
+			<key>imageName</key>
+			<string>Yoda</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Obi-Wan Kenobi</string>
+			<key>detailText</key>
+			<string>Spring the trap.</string>
+			<key>imageName</key>
+			<string>Obi-Wan-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Yoda</string>
+			<key>detailText</key>
+			<string>Twisted by the Dark Side, young Skywalker has become. The boy you trained, gone he is... Consumed by Darth Vader.</string>
+			<key>imageName</key>
+			<string>Yoda</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>148</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Padmé</string>
+			<key>detailText</key>
+			<string>So this is how liberty dies, with thunderous applause.</string>
+			<key>imageName</key>
+			<string>Padme</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Luke Skywalker</string>
+			<key>detailText</key>
+			<string>Ben? Ben Kenobi? Boy, am I glad to see you.</string>
+			<key>imageName</key>
+			<string>Luke-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Ben Kenobi</string>
+			<key>detailText</key>
+			<string>These aren&apos;t the droids you&apos;re looking for.</string>
+			<key>imageName</key>
+			<string>Ben-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Darth Vader</string>
+			<key>detailText</key>
+			<string>The Force is strong with this one.</string>
+			<key>imageName</key>
+			<string>Darth-Vader</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Luke Skywalker</string>
+			<key>detailText</key>
+			<string>You know, between his howling and your blasting everything in sight, it&apos;s a wonder the whole station doesn&apos;t know we&apos;re here.</string>
+			<key>imageName</key>
+			<string>Luke-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>148</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Han Solo</string>
+			<key>detailText</key>
+			<string>Uh, we had a slight weapons malfunction, but uh... everything&apos;s perfectly all right now. We&apos;re fine. We&apos;re all fine here now, thank you. How are you?</string>
+			<key>imageName</key>
+			<string>Han-Solo</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>168</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Luke Skywalker</string>
+			<key>detailText</key>
+			<string>I&apos;m Luke Skywalker. I&apos;m here to rescue you.</string>
+			<key>imageName</key>
+			<string>Luke-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Princess Leia</string>
+			<key>detailText</key>
+			<string>Aren&apos;t you a little short for a stormtrooper?</string>
+			<key>imageName</key>
+			<string>Princess-Leia</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Chewbacca</string>
+			<key>detailText</key>
+			<string>GGWWWRGHH</string>
+			<key>imageName</key>
+			<string>Chewbacca</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Princess Leia</string>
+			<key>detailText</key>
+			<string>Will someone get this big walking carpet out of my way?</string>
+			<key>imageName</key>
+			<string>Princess-Leia</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Ben Kenobi</string>
+			<key>detailText</key>
+			<string>Your father&apos;s light saber. This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster; an elegant weapon for a more civilized age. For over a thousand generations, the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times... before the Empire.</string>
+			<key>imageName</key>
+			<string>Ben-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>288</integer>
+				<key>pad</key>
+				<integer>128</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Han Solo</string>
+			<key>detailText</key>
+			<string>That’s no moon.</string>
+			<key>imageName</key>
+			<string>Han-Solo</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Princess Leia</string>
+			<key>detailText</key>
+			<string>You came in that thing? You&apos;re braver than I thought.</string>
+			<key>imageName</key>
+			<string>Princess-Leia</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>C-3PO</string>
+			<key>detailText</key>
+			<string>And I am C-3PO, human-cyborg relations. And this is my counterpart R2D2.</string>
+			<key>imageName</key>
+			<string>C-3PO</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Han Solo</string>
+			<key>detailText</key>
+			<string>Laugh it up, fuzzball!</string>
+			<key>imageName</key>
+			<string>Han-Solo</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Ben Kenobi</string>
+			<key>detailText</key>
+			<string>Strike me down, and I will become more powerful than you could possibly imagine.</string>
+			<key>imageName</key>
+			<string>Ben-Kenobi</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Princess Leia</string>
+			<key>detailText</key>
+			<string> I love you.</string>
+			<key>imageName</key>
+			<string>Princess-Leia</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Han Solo</string>
+			<key>detailText</key>
+			<string>I know.</string>
+			<key>imageName</key>
+			<string>Han-Solo</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Luke Skywalker</string>
+			<key>detailText</key>
+			<string>All right, I&apos;ll give it a try.</string>
+			<key>imageName</key>
+			<string>Luke-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Yoda</string>
+			<key>detailText</key>
+			<string>No. Try not. Do... or do not. There is no try.</string>
+			<key>imageName</key>
+			<string>Yoda</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Darth Vader</string>
+			<key>detailText</key>
+			<string>Impressive. Most impressive. Obi-Wan has taught you well. You have controlled your fear. Now, release your anger. Only your hatred can destroy me.</string>
+			<key>imageName</key>
+			<string>Darth-Vader</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>168</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>C-3PO</string>
+			<key>detailText</key>
+			<string>Artoo says that the chances of survival are 725 to 1. Actually Artoo has been known to make mistakes... from time to time... Oh dear...</string>
+			<key>imageName</key>
+			<string>C-3PO</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>168</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Darth Vader</string>
+			<key>detailText</key>
+			<string>The circle is now complete.</string>
+			<key>imageName</key>
+			<string>Darth-Vader</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Chewbacca</string>
+			<key>detailText</key>
+			<string>AAARARRRGWWWH</string>
+			<key>imageName</key>
+			<string>Chewbacca</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Darth Vader</string>
+			<key>detailText</key>
+			<string>I am altering the deal. Pray I don&apos;t alter it any further.</string>
+			<key>imageName</key>
+			<string>Darth-Vader</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Lando Calrissian</string>
+			<key>detailText</key>
+			<string>How you doin&apos; Chewbacca? Still hanging around with this loser?</string>
+			<key>imageName</key>
+			<string>Lando-Calrissian</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Darth Vader</string>
+			<key>detailText</key>
+			<string>No. I am your Father.</string>
+			<key>imageName</key>
+			<string>Darth-Vader</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Luke Skywalker</string>
+			<key>detailText</key>
+			<string>No. No. That&apos;s not true. That&apos;s impossible!</string>
+			<key>imageName</key>
+			<string>Luke-Skywalker</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Han Solo</string>
+			<key>detailText</key>
+			<string>I think my eyes are getting better. Instead of a big dark blur, I see a big bright blur.</string>
+			<key>imageName</key>
+			<string>Han-Solo</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>108</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>Admiral Ackbar</string>
+			<key>detailText</key>
+			<string>It&apos;s a trap!</string>
+			<key>imageName</key>
+			<string>Admiral-Ackbar</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>The Emperor</string>
+			<key>detailText</key>
+			<string>Everything is proceeding as I have foreseen.</string>
+			<key>imageName</key>
+			<string>The-Emperor</string>
+			<key>height</key>
+			<dict>
+				<key>phone</key>
+				<integer>88</integer>
+				<key>pad</key>
+				<integer>88</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>posters</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Episode I</string>
+			<key>subtitle</key>
+			<string>The Phantom Menace</string>
+			<key>imageName</key>
+			<string>Poster-Episode-I</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Episode II</string>
+			<key>subtitle</key>
+			<string>Attack of the Clones</string>
+			<key>imageName</key>
+			<string>Poster-Episode-II</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Episode III</string>
+			<key>subtitle</key>
+			<string>Revenge of the Sith</string>
+			<key>imageName</key>
+			<string>Poster-Episode-III</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Episode I</string>
+			<key>subtitle</key>
+			<string>A New Hope</string>
+			<key>imageName</key>
+			<string>Poster-Episode-IV</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Episode V</string>
+			<key>subtitle</key>
+			<string>The Empire Strikes Back</string>
+			<key>imageName</key>
+			<string>Poster-Episode-V</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Episode VI</string>
+			<key>subtitle</key>
+			<string>Return of the Jedi</string>
+			<key>imageName</key>
+			<string>Poster-Episode-VI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
